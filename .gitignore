@@ -219,6 +219,6 @@ pip-log.txt
 ## C++ win8 gvim
 #############
 
-.o
-.exe
-.txt
+*.o
+*.exe
+*.txt
